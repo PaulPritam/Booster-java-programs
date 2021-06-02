@@ -1,0 +1,20 @@
+com/bridgelabz/boosterjavaprograms/day1/SumOfTwoDice.java
+ com.bridgelabz.boosterjavaprograms.day1.SumOfTwoDice
+com/bridgelabz/boosterjavaprograms/day1/Distance.java
+ com.bridgelabz.boosterjavaprograms.day1.Distance
+com/bridgelabz/boosterjavaprograms/day1/Utility.java
+ com.bridgelabz.boosterjavaprograms.day1.Utility
+com/bridgelabz/boosterjavaprograms/day1/PrintThreeNames.java
+ com.bridgelabz.boosterjavaprograms.day1.PrintThreeNames
+com/bridgelabz/boosterjavaprograms/day1/SpringSeason.java
+ com.bridgelabz.boosterjavaprograms.day1.SpringSeason
+com/bridgelabz/boosterjavaprograms/day1/IntOpt.java
+ com.bridgelabz.boosterjavaprograms.day1.IntOpt
+com/bridgelabz/boosterjavaprograms/day1/SumOfTwoNumbers.java
+ com.bridgelabz.boosterjavaprograms.day1.SumOfTwoNumbers
+com/bridgelabz/boosterjavaprograms/day1/LeapYear.java
+ com.bridgelabz.boosterjavaprograms.day1.LeapYear
+com/bridgelabz/boosterjavaprograms/day1/Quadratic.java
+ com.bridgelabz.boosterjavaprograms.day1.Quadratic
+com/bridgelabz/boosterjavaprograms/day1/ReverseNumber.java
+ com.bridgelabz.boosterjavaprograms.day1.ReverseNumber
