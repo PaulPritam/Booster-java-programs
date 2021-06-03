@@ -1,5 +1,5 @@
-com/bridgelabz/boosterjavaprograms/day1/SumOfTwoDice.java
- com.bridgelabz.boosterjavaprograms.day1.SumOfTwoDice
+com/bridgelabz/boosterjavaprograms/day1/ReverseNumber.java
+ com.bridgelabz.boosterjavaprograms.day1.ReverseNumber
 com/bridgelabz/boosterjavaprograms/day1/Distance.java
  com.bridgelabz.boosterjavaprograms.day1.Distance
 com/bridgelabz/boosterjavaprograms/day1/Utility.java
@@ -16,5 +16,21 @@ com/bridgelabz/boosterjavaprograms/day1/LeapYear.java
  com.bridgelabz.boosterjavaprograms.day1.LeapYear
 com/bridgelabz/boosterjavaprograms/day1/Quadratic.java
  com.bridgelabz.boosterjavaprograms.day1.Quadratic
-com/bridgelabz/boosterjavaprograms/day1/ReverseNumber.java
- com.bridgelabz.boosterjavaprograms.day1.ReverseNumber
+com/bridgelabz/boosterjavaprograms/day1/SumOfTwoDice.java
+ com.bridgelabz.boosterjavaprograms.day1.SumOfTwoDice
+com/bridgelabz/boosterjavaprograms/day2/utility/PowerOf2.java
+ com.bridgelabz.boosterjavaprograms.day2.utility.PowerOf2
+com/bridgelabz/boosterjavaprograms/day2/utility/HarmonicNumber.java
+ com.bridgelabz.boosterjavaprograms.day2.utility.HarmonicNumber
+com/bridgelabz/boosterjavaprograms/day2/utility/Utility.java
+ com.bridgelabz.boosterjavaprograms.day2.utility.Utility
+com/bridgelabz/boosterjavaprograms/day2/WindChill.java
+ com.bridgelabz.boosterjavaprograms.day2.WindChill
+com/bridgelabz/boosterjavaprograms/day2/Stat5.java
+ com.bridgelabz.boosterjavaprograms.day2.Stat5
+com/bridgelabz/boosterjavaprograms/day2/FlipCoin.java
+ com.bridgelabz.boosterjavaprograms.day2.FlipCoin
+com/bridgelabz/boosterjavaprograms/day2/Trig.java
+ com.bridgelabz.boosterjavaprograms.day2.Trig
+com/bridgelabz/boosterjavaprograms/day2/TemperatureConversion.java
+ com.bridgelabz.boosterjavaprograms.day2.TemperatureConversion
