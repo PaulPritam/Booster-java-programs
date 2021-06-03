@@ -1,4 +1,6 @@
-package com.bridgelabz.boosterjavaprograms.day2.utility;
+package com.bridgelabz.boosterjavaprograms.day2;
+
+import com.bridgelabz.boosterjavaprograms.day2.utility.Utility;
 
 import java.util.Scanner;
 
@@ -16,4 +18,5 @@ public class PowerOf2 {
 
         }
     }
+
 }

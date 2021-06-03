@@ -12,6 +12,7 @@ public class WindChill {
         System.out.println("Enter the wind speed ");
         double v = scan.nextInt();
 
-        System.out.println("The temperature is " +Utility.windChill(t,v) + "F");
+        System.out.println("The temperature is " + Utility.windChill(t, v) + "F");
     }
+
 }
