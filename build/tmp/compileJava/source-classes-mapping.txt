@@ -18,27 +18,35 @@ com/bridgelabz/boosterjavaprograms/day1/Quadratic.java
  com.bridgelabz.boosterjavaprograms.day1.Quadratic
 com/bridgelabz/boosterjavaprograms/day1/SumOfTwoDice.java
  com.bridgelabz.boosterjavaprograms.day1.SumOfTwoDice
-com/bridgelabz/boosterjavaprograms/day2/CarLoan.java
- com.bridgelabz.boosterjavaprograms.day2.CarLoan
 com/bridgelabz/boosterjavaprograms/day2/utility/Utility.java
  com.bridgelabz.boosterjavaprograms.day2.utility.Utility
-com/bridgelabz/boosterjavaprograms/day2/WindChill.java
- com.bridgelabz.boosterjavaprograms.day2.WindChill
 com/bridgelabz/boosterjavaprograms/day2/DayOfWeek.java
  com.bridgelabz.boosterjavaprograms.day2.DayOfWeek
-com/bridgelabz/boosterjavaprograms/day2/PowerOf2.java
- com.bridgelabz.boosterjavaprograms.day2.PowerOf2
-com/bridgelabz/boosterjavaprograms/day2/Stat5.java
- com.bridgelabz.boosterjavaprograms.day2.Stat5
 com/bridgelabz/boosterjavaprograms/day2/GamblingSimulator.java
  com.bridgelabz.boosterjavaprograms.day2.GamblingSimulator
-com/bridgelabz/boosterjavaprograms/day2/FlipCoin.java
- com.bridgelabz.boosterjavaprograms.day2.FlipCoin
-com/bridgelabz/boosterjavaprograms/day2/Trig.java
- com.bridgelabz.boosterjavaprograms.day2.Trig
 com/bridgelabz/boosterjavaprograms/day2/TemperatureConversion.java
  com.bridgelabz.boosterjavaprograms.day2.TemperatureConversion
 com/bridgelabz/boosterjavaprograms/day2/HarmonicNumber.java
  com.bridgelabz.boosterjavaprograms.day2.HarmonicNumber
+com/bridgelabz/boosterjavaprograms/day2/CarLoan.java
+ com.bridgelabz.boosterjavaprograms.day2.CarLoan
+com/bridgelabz/boosterjavaprograms/day2/WindChill.java
+ com.bridgelabz.boosterjavaprograms.day2.WindChill
+com/bridgelabz/boosterjavaprograms/day2/PowerOf2.java
+ com.bridgelabz.boosterjavaprograms.day2.PowerOf2
+com/bridgelabz/boosterjavaprograms/day2/Stat5.java
+ com.bridgelabz.boosterjavaprograms.day2.Stat5
+com/bridgelabz/boosterjavaprograms/day2/FlipCoin.java
+ com.bridgelabz.boosterjavaprograms.day2.FlipCoin
+com/bridgelabz/boosterjavaprograms/day2/Trig.java
+ com.bridgelabz.boosterjavaprograms.day2.Trig
 com/bridgelabz/boosterjavaprograms/day2/Sqrt.java
  com.bridgelabz.boosterjavaprograms.day2.Sqrt
+com/bridgelabz/boosterjavaprograms/day3/Prime.java
+ com.bridgelabz.boosterjavaprograms.day3.Prime
+com/bridgelabz/boosterjavaprograms/day3/utility/Utility.java
+ com.bridgelabz.boosterjavaprograms.day3.utility.Utility
+com/bridgelabz/boosterjavaprograms/day3/RollDie.java
+ com.bridgelabz.boosterjavaprograms.day3.RollDie
+com/bridgelabz/boosterjavaprograms/day3/SecondLargeAndSmall.java
+ com.bridgelabz.boosterjavaprograms.day3.SecondLargeAndSmall
