@@ -1,40 +1,29 @@
+//Program to find second largest and second smallest element from an unsorted array
+
 package com.bridgelabz.boosterjavaprograms.day3;
 
+import com.bridgelabz.boosterjavaprograms.day3.utility.Utility;
+
+import java.util.Scanner;
+
 public class SecondLargeAndSmall {
-    static void print2largest(int arr[], int arr_size) {
-        int i, first, second;
-
-        // There should be atleast two elements
-        if (arr_size < 2) {
-            System.out.printf(" Invalid Input ");
-            return;
-        }
-
-        int largest = second = Integer.MIN_VALUE;
-
-
-        for (i = 0; i < arr_size; i++) {
-            largest = Math.max(largest, arr[i]);
-        }
-
-
-        for (i = 0; i < arr_size; i++) {
-            if (arr[i] != largest)
-                second = Math.max(second, arr[i]);
-        }
-        if (second == Integer.MIN_VALUE)
-            System.out.printf("There is no second " +
-                    "largest element\n");
-        else
-            System.out.printf("The second largest " +
-                    "element is %d\n", second);
-    }
 
     public static void main(String[] args) {
-        int arr[] = {12, 35, 1, 10, 34, 1};
-        int n = arr.length;
+        Scanner scan = new Scanner(System.in);
+        System.out.println("Enter the size of the array: ");
+        int size = scan.nextInt();
 
-        print2largest(arr, n);
+        int arr[] = new int[size];
+        System.out.println("Enter the elements of the array: ");
+        for (int i = 0; i < size; i++) {
+            arr[i] = scan.nextInt();
+        }
+
+        Utility.secondLargest(arr, size);
+        Utility.secondSmallest(arr, size);
+
+        System.out.println("Using second method to find the second largest and smallest for the given array: ");
+        Utility.secondLargestAndSmallest(arr, size);
     }
 }
 
