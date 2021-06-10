@@ -80,6 +80,7 @@ public class Utility {
     public static double harmonicNumber(int number) {
         double result = 0;
         for (int i = 1; i <= number; i++) {
+            System.out.print("1/" + i + " + ");
             result += (float) 1 / i;
         }
         return result;
