@@ -58,4 +58,37 @@ public class MathFunction {
             System.out.print(binary[j]);
         }
     }
+
+    //Method to check whether a number is prime or not
+    public static boolean isPrime(int number)
+    {
+        int counter = 0;
+        boolean check = true;
+        if (number == 1)
+            System.out.println("Composite number");
+        else if (number == 0)
+            System.out.println("Put a number greater than 2 ");
+        else {
+            for (int i = 2; i < number; i++) {
+                if (number % i == 0)
+                    counter++;
+            }
+            if (counter > 0) {
+                System.out.println(check = false);
+            } else
+                System.out.println(true);
+        }
+
+        return check;
+    }
+
+    //Method to print factorial of a number
+    public static int factorial(int number)
+    {
+        int factorial = 1;
+        for (int i = 1; i <= number ; i++) {
+            factorial *= i;
+        }
+        return factorial;
+    }
 }

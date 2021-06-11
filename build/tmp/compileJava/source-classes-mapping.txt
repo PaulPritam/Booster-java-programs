@@ -10,8 +10,12 @@ com/bridgelabz/boosterjavaprograms/day4/CheckArray.java
  com.bridgelabz.boosterjavaprograms.day4.CheckArray
 com/bridgelabz/boosterjavaprograms/day4/ReverseArray.java
  com.bridgelabz.boosterjavaprograms.day4.ReverseArray
+com/bridgelabz/boosterjavaprograms/day3/SecondLargeAndSmall.java
+ com.bridgelabz.boosterjavaprograms.day3.SecondLargeAndSmall
 com/bridgelabz/boosterjavaprograms/day3/utility/Utility.java
  com.bridgelabz.boosterjavaprograms.day3.utility.Utility
+com/bridgelabz/boosterjavaprograms/day3/ComputeFactors.java
+ com.bridgelabz.boosterjavaprograms.day3.ComputeFactors
 com/bridgelabz/boosterjavaprograms/day1/SumOfTwoDice.java
  com.bridgelabz.boosterjavaprograms.day1.SumOfTwoDice
 com/bridgelabz/boosterjavaprograms/day3/FindRepeated.java
@@ -30,8 +34,10 @@ com/bridgelabz/boosterjavaprograms/day2/Stat5.java
  com.bridgelabz.boosterjavaprograms.day2.Stat5
 com/bridgelabz/boosterjavaprograms/day2/FlipCoin.java
  com.bridgelabz.boosterjavaprograms.day2.FlipCoin
-com/bridgelabz/boosterjavaprograms/day5/Utility/MathFunction.java
- com.bridgelabz.boosterjavaprograms.day5.Utility.MathFunction
+com/bridgelabz/boosterjavaprograms/day5/Missing2.java
+ com.bridgelabz.boosterjavaprograms.day5.Missing2
+com/bridgelabz/boosterjavaprograms/day1/LeapYear.java
+ com.bridgelabz.boosterjavaprograms.day1.LeapYear
 com/bridgelabz/boosterjavaprograms/day3/Prime.java
  com.bridgelabz.boosterjavaprograms.day3.Prime
 com/bridgelabz/boosterjavaprograms/day2/Sqrt.java
@@ -40,8 +46,8 @@ com/bridgelabz/boosterjavaprograms/day1/ReverseNumber.java
  com.bridgelabz.boosterjavaprograms.day1.ReverseNumber
 com/bridgelabz/boosterjavaprograms/day1/Utility.java
  com.bridgelabz.boosterjavaprograms.day1.Utility
-com/bridgelabz/boosterjavaprograms/day5/SquareRoot.java
- com.bridgelabz.boosterjavaprograms.day5.SquareRoot
+com/bridgelabz/boosterjavaprograms/day5/MissingNumber.java
+ com.bridgelabz.boosterjavaprograms.day5.MissingNumber
 com/bridgelabz/boosterjavaprograms/day2/utility/Utility.java
  com.bridgelabz.boosterjavaprograms.day2.utility.Utility
 com/bridgelabz/boosterjavaprograms/day2/DayOfWeek.java
@@ -54,6 +60,8 @@ com/bridgelabz/boosterjavaprograms/day1/IntOpt.java
  com.bridgelabz.boosterjavaprograms.day1.IntOpt
 com/bridgelabz/boosterjavaprograms/day4/JavaPrintCalendarOfMonth.java
  com.bridgelabz.boosterjavaprograms.day4.JavaPrintCalendarOfMonth
+com/bridgelabz/boosterjavaprograms/day4/Swap.java
+ com.bridgelabz.boosterjavaprograms.day4.Swap
 com/bridgelabz/boosterjavaprograms/day1/Quadratic.java
  com.bridgelabz.boosterjavaprograms.day1.Quadratic
 com/bridgelabz/boosterjavaprograms/day4/StringFunctions.java
@@ -64,8 +72,6 @@ com/bridgelabz/boosterjavaprograms/day2/WindChill.java
  com.bridgelabz.boosterjavaprograms.day2.WindChill
 com/bridgelabz/boosterjavaprograms/day3/Binary.java
  com.bridgelabz.boosterjavaprograms.day3.Binary
-com/bridgelabz/boosterjavaprograms/day5/MathFunction.java
- com.bridgelabz.boosterjavaprograms.day5.MathFunction
 com/bridgelabz/boosterjavaprograms/day2/Trig.java
  com.bridgelabz.boosterjavaprograms.day2.Trig
 com/bridgelabz/boosterjavaprograms/day4/CheckPalindrome.java
@@ -74,15 +80,19 @@ com/bridgelabz/boosterjavaprograms/day1/SumOfTwoNumbers.java
  com.bridgelabz.boosterjavaprograms.day1.SumOfTwoNumbers
 com/bridgelabz/boosterjavaprograms/day2/HarmonicNumber.java
  com.bridgelabz.boosterjavaprograms.day2.HarmonicNumber
-com/bridgelabz/boosterjavaprograms/day3/ComputeFactors.java
- com.bridgelabz.boosterjavaprograms.day3.ComputeFactors
-com/bridgelabz/boosterjavaprograms/day3/SecondLargeAndSmall.java
- com.bridgelabz.boosterjavaprograms.day3.SecondLargeAndSmall
-com/bridgelabz/boosterjavaprograms/day1/LeapYear.java
- com.bridgelabz.boosterjavaprograms.day1.LeapYear
-com/bridgelabz/boosterjavaprograms/day4/Swap.java
- com.bridgelabz.boosterjavaprograms.day4.Swap
-com/bridgelabz/boosterjavaprograms/day5/Missing2.java
- com.bridgelabz.boosterjavaprograms.day5.Missing2
-com/bridgelabz/boosterjavaprograms/day5/MissingNumber.java
- com.bridgelabz.boosterjavaprograms.day5.MissingNumber
+com/bridgelabz/boosterjavaprograms/day5/SquareRoot.java
+ com.bridgelabz.boosterjavaprograms.day5.SquareRoot
+com/bridgelabz/boosterjavaprograms/day5/PrimeNumber.java
+ com.bridgelabz.boosterjavaprograms.day5.PrimeNumber
+com/bridgelabz/boosterjavaprograms/day5/Utility/MathFunction.java
+ com.bridgelabz.boosterjavaprograms.day5.Utility.MathFunction
+com/bridgelabz/boosterjavaprograms/day5/CosineCalculation.java
+ com.bridgelabz.boosterjavaprograms.day5.CosineCalculation
+com/bridgelabz/boosterjavaprograms/day5/HarmonicNumber.java
+ com.bridgelabz.boosterjavaprograms.day5.HarmonicNumber
+com/bridgelabz/boosterjavaprograms/day5/Binary.java
+ com.bridgelabz.boosterjavaprograms.day5.Binary
+com/bridgelabz/boosterjavaprograms/day5/SinAngle.java
+ com.bridgelabz.boosterjavaprograms.day5.SinAngle
+com/bridgelabz/boosterjavaprograms/day5/Factorial.java
+ com.bridgelabz.boosterjavaprograms.day5.Factorial
