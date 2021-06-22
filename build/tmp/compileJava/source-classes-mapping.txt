@@ -1,98 +1,137 @@
-com/bridgelabz/boosterjavaprograms/day3/ReverseOrder.java
- com.bridgelabz.boosterjavaprograms.day3.ReverseOrder
-com/bridgelabz/boosterjavaprograms/day3/trythis.java
- com.bridgelabz.boosterjavaprograms.day3.trythis
-com/bridgelabz/boosterjavaprograms/day2/TemperatureConversion.java
- com.bridgelabz.boosterjavaprograms.day2.TemperatureConversion
 com/bridgelabz/boosterjavaprograms/day4/ArraySort.java
  com.bridgelabz.boosterjavaprograms.day4.ArraySort
 com/bridgelabz/boosterjavaprograms/day4/CheckArray.java
  com.bridgelabz.boosterjavaprograms.day4.CheckArray
 com/bridgelabz/boosterjavaprograms/day4/ReverseArray.java
  com.bridgelabz.boosterjavaprograms.day4.ReverseArray
-com/bridgelabz/boosterjavaprograms/day3/SecondLargeAndSmall.java
- com.bridgelabz.boosterjavaprograms.day3.SecondLargeAndSmall
-com/bridgelabz/boosterjavaprograms/day3/utility/Utility.java
- com.bridgelabz.boosterjavaprograms.day3.utility.Utility
-com/bridgelabz/boosterjavaprograms/day3/ComputeFactors.java
- com.bridgelabz.boosterjavaprograms.day3.ComputeFactors
-com/bridgelabz/boosterjavaprograms/day1/SumOfTwoDice.java
- com.bridgelabz.boosterjavaprograms.day1.SumOfTwoDice
+com/bridgelabz/boosterjavaprograms/day5/SinAngle.java
+ com.bridgelabz.boosterjavaprograms.day5.SinAngle
 com/bridgelabz/boosterjavaprograms/day3/FindRepeated.java
  com.bridgelabz.boosterjavaprograms.day3.FindRepeated
 com/bridgelabz/boosterjavaprograms/day1/Distance.java
  com.bridgelabz.boosterjavaprograms.day1.Distance
 com/bridgelabz/boosterjavaprograms/day2/CarLoan.java
  com.bridgelabz.boosterjavaprograms.day2.CarLoan
-com/bridgelabz/boosterjavaprograms/day4/Utility/Utility.java
- com.bridgelabz.boosterjavaprograms.day4.Utility.Utility
 com/bridgelabz/boosterjavaprograms/day3/RollDie.java
  com.bridgelabz.boosterjavaprograms.day3.RollDie
 com/bridgelabz/boosterjavaprograms/day2/PowerOf2.java
  com.bridgelabz.boosterjavaprograms.day2.PowerOf2
-com/bridgelabz/boosterjavaprograms/day2/Stat5.java
- com.bridgelabz.boosterjavaprograms.day2.Stat5
-com/bridgelabz/boosterjavaprograms/day2/FlipCoin.java
- com.bridgelabz.boosterjavaprograms.day2.FlipCoin
 com/bridgelabz/boosterjavaprograms/day5/Missing2.java
  com.bridgelabz.boosterjavaprograms.day5.Missing2
-com/bridgelabz/boosterjavaprograms/day1/LeapYear.java
- com.bridgelabz.boosterjavaprograms.day1.LeapYear
-com/bridgelabz/boosterjavaprograms/day3/Prime.java
- com.bridgelabz.boosterjavaprograms.day3.Prime
-com/bridgelabz/boosterjavaprograms/day2/Sqrt.java
- com.bridgelabz.boosterjavaprograms.day2.Sqrt
-com/bridgelabz/boosterjavaprograms/day1/ReverseNumber.java
- com.bridgelabz.boosterjavaprograms.day1.ReverseNumber
-com/bridgelabz/boosterjavaprograms/day1/Utility.java
- com.bridgelabz.boosterjavaprograms.day1.Utility
 com/bridgelabz/boosterjavaprograms/day5/MissingNumber.java
  com.bridgelabz.boosterjavaprograms.day5.MissingNumber
-com/bridgelabz/boosterjavaprograms/day2/utility/Utility.java
- com.bridgelabz.boosterjavaprograms.day2.utility.Utility
-com/bridgelabz/boosterjavaprograms/day2/DayOfWeek.java
- com.bridgelabz.boosterjavaprograms.day2.DayOfWeek
+com/bridgelabz/boosterjavaprograms/day6/Linky.java
+ com.bridgelabz.boosterjavaprograms.day6.Linky
+ com.bridgelabz.boosterjavaprograms.day6.Nodes
+com/bridgelabz/boosterjavaprograms/day1/Utility.java
+ com.bridgelabz.boosterjavaprograms.day1.Utility
+com/bridgelabz/boosterjavaprograms/day1/ReverseNumber.java
+ com.bridgelabz.boosterjavaprograms.day1.ReverseNumber
+com/bridgelabz/boosterjavaprograms/day5/PrimeNumber.java
+ com.bridgelabz.boosterjavaprograms.day5.PrimeNumber
 com/bridgelabz/boosterjavaprograms/day2/GamblingSimulator.java
  com.bridgelabz.boosterjavaprograms.day2.GamblingSimulator
-com/bridgelabz/boosterjavaprograms/day1/SpringSeason.java
- com.bridgelabz.boosterjavaprograms.day1.SpringSeason
+com/bridgelabz/boosterjavaprograms/day6/LinkedListOps.java
+ com.bridgelabz.boosterjavaprograms.day6.LinkedListOps
+ com.bridgelabz.boosterjavaprograms.day6.Node
+ com.bridgelabz.boosterjavaprograms.day6.Operational
 com/bridgelabz/boosterjavaprograms/day1/IntOpt.java
  com.bridgelabz.boosterjavaprograms.day1.IntOpt
-com/bridgelabz/boosterjavaprograms/day4/JavaPrintCalendarOfMonth.java
- com.bridgelabz.boosterjavaprograms.day4.JavaPrintCalendarOfMonth
-com/bridgelabz/boosterjavaprograms/day4/Swap.java
- com.bridgelabz.boosterjavaprograms.day4.Swap
-com/bridgelabz/boosterjavaprograms/day1/Quadratic.java
- com.bridgelabz.boosterjavaprograms.day1.Quadratic
+com/bridgelabz/boosterjavaprograms/day5/HarmonicNumber.java
+ com.bridgelabz.boosterjavaprograms.day5.HarmonicNumber
+com/bridgelabz/boosterjavaprograms/day6/ArrayEvenOdd.java
+ com.bridgelabz.boosterjavaprograms.day6.ArrayEvenOdd
 com/bridgelabz/boosterjavaprograms/day4/StringFunctions.java
  com.bridgelabz.boosterjavaprograms.day4.StringFunctions
 com/bridgelabz/boosterjavaprograms/day1/PrintThreeNames.java
  com.bridgelabz.boosterjavaprograms.day1.PrintThreeNames
-com/bridgelabz/boosterjavaprograms/day2/WindChill.java
- com.bridgelabz.boosterjavaprograms.day2.WindChill
-com/bridgelabz/boosterjavaprograms/day3/Binary.java
- com.bridgelabz.boosterjavaprograms.day3.Binary
 com/bridgelabz/boosterjavaprograms/day2/Trig.java
  com.bridgelabz.boosterjavaprograms.day2.Trig
 com/bridgelabz/boosterjavaprograms/day4/CheckPalindrome.java
  com.bridgelabz.boosterjavaprograms.day4.CheckPalindrome
+com/bridgelabz/boosterjavaprograms/day3/ComputeFactors.java
+ com.bridgelabz.boosterjavaprograms.day3.ComputeFactors
+com/bridgelabz/boosterjavaprograms/day3/SecondLargeAndSmall.java
+ com.bridgelabz.boosterjavaprograms.day3.SecondLargeAndSmall
+com/bridgelabz/boosterjavaprograms/day1/LeapYear.java
+ com.bridgelabz.boosterjavaprograms.day1.LeapYear
+com/bridgelabz/boosterjavaprograms/day4/Swap.java
+ com.bridgelabz.boosterjavaprograms.day4.Swap
+com/bridgelabz/boosterjavaprograms/day3/ReverseOrder.java
+ com.bridgelabz.boosterjavaprograms.day3.ReverseOrder
+com/bridgelabz/boosterjavaprograms/day3/trythis.java
+ com.bridgelabz.boosterjavaprograms.day3.trythis
+com/bridgelabz/boosterjavaprograms/day2/TemperatureConversion.java
+ com.bridgelabz.boosterjavaprograms.day2.TemperatureConversion
+com/bridgelabz/boosterjavaprograms/day7/StdStats.java
+ com.bridgelabz.boosterjavaprograms.day7.StdStats
+com/bridgelabz/boosterjavaprograms/day6/SortTwice.java
+ com.bridgelabz.boosterjavaprograms.day6.SortTwice
+com/bridgelabz/boosterjavaprograms/day3/utility/Utility.java
+ com.bridgelabz.boosterjavaprograms.day3.utility.Utility
+com/bridgelabz/boosterjavaprograms/day5/CosineCalculation.java
+ com.bridgelabz.boosterjavaprograms.day5.CosineCalculation
+com/bridgelabz/boosterjavaprograms/day1/SumOfTwoDice.java
+ com.bridgelabz.boosterjavaprograms.day1.SumOfTwoDice
+com/bridgelabz/boosterjavaprograms/day4/Utility/Utility.java
+ com.bridgelabz.boosterjavaprograms.day4.Utility.Utility
+com/bridgelabz/boosterjavaprograms/day2/Stat5.java
+ com.bridgelabz.boosterjavaprograms.day2.Stat5
+com/bridgelabz/boosterjavaprograms/day2/FlipCoin.java
+ com.bridgelabz.boosterjavaprograms.day2.FlipCoin
+com/bridgelabz/boosterjavaprograms/day5/Utility/MathFunction.java
+ com.bridgelabz.boosterjavaprograms.day5.Utility.MathFunction
+com/bridgelabz/boosterjavaprograms/day3/Prime.java
+ com.bridgelabz.boosterjavaprograms.day3.Prime
+com/bridgelabz/boosterjavaprograms/day7/ArrayFunctions.java
+ com.bridgelabz.boosterjavaprograms.day7.ArrayFunctions
+com/bridgelabz/boosterjavaprograms/day7/BlStats/BlStats.java
+ com.bridgelabz.boosterjavaprograms.day7.BlStats.BlStats
+com/bridgelabz/boosterjavaprograms/day2/Sqrt.java
+ com.bridgelabz.boosterjavaprograms.day2.Sqrt
+com/bridgelabz/boosterjavaprograms/day5/SquareRoot.java
+ com.bridgelabz.boosterjavaprograms.day5.SquareRoot
+com/bridgelabz/boosterjavaprograms/day2/utility/Utility.java
+ com.bridgelabz.boosterjavaprograms.day2.utility.Utility
+com/bridgelabz/boosterjavaprograms/day6/StopWatch.java
+ com.bridgelabz.boosterjavaprograms.day6.StopWatch
+com/bridgelabz/boosterjavaprograms/day2/DayOfWeek.java
+ com.bridgelabz.boosterjavaprograms.day2.DayOfWeek
+com/bridgelabz/boosterjavaprograms/day1/SpringSeason.java
+ com.bridgelabz.boosterjavaprograms.day1.SpringSeason
+com/bridgelabz/boosterjavaprograms/day10/MainArrayFunctions.java
+ com.bridgelabz.boosterjavaprograms.day10.MainArrayFunctions
+com/bridgelabz/boosterjavaprograms/day4/JavaPrintCalendarOfMonth.java
+ com.bridgelabz.boosterjavaprograms.day4.JavaPrintCalendarOfMonth
+com/bridgelabz/boosterjavaprograms/day1/Quadratic.java
+ com.bridgelabz.boosterjavaprograms.day1.Quadratic
+com/bridgelabz/boosterjavaprograms/day2/WindChill.java
+ com.bridgelabz.boosterjavaprograms.day2.WindChill
+com/bridgelabz/boosterjavaprograms/day3/Binary.java
+ com.bridgelabz.boosterjavaprograms.day3.Binary
 com/bridgelabz/boosterjavaprograms/day1/SumOfTwoNumbers.java
  com.bridgelabz.boosterjavaprograms.day1.SumOfTwoNumbers
 com/bridgelabz/boosterjavaprograms/day2/HarmonicNumber.java
  com.bridgelabz.boosterjavaprograms.day2.HarmonicNumber
-com/bridgelabz/boosterjavaprograms/day5/SquareRoot.java
- com.bridgelabz.boosterjavaprograms.day5.SquareRoot
-com/bridgelabz/boosterjavaprograms/day5/PrimeNumber.java
- com.bridgelabz.boosterjavaprograms.day5.PrimeNumber
-com/bridgelabz/boosterjavaprograms/day5/Utility/MathFunction.java
- com.bridgelabz.boosterjavaprograms.day5.Utility.MathFunction
-com/bridgelabz/boosterjavaprograms/day5/CosineCalculation.java
- com.bridgelabz.boosterjavaprograms.day5.CosineCalculation
-com/bridgelabz/boosterjavaprograms/day5/HarmonicNumber.java
- com.bridgelabz.boosterjavaprograms.day5.HarmonicNumber
-com/bridgelabz/boosterjavaprograms/day5/Binary.java
- com.bridgelabz.boosterjavaprograms.day5.Binary
-com/bridgelabz/boosterjavaprograms/day5/SinAngle.java
- com.bridgelabz.boosterjavaprograms.day5.SinAngle
 com/bridgelabz/boosterjavaprograms/day5/Factorial.java
  com.bridgelabz.boosterjavaprograms.day5.Factorial
+com/bridgelabz/boosterjavaprograms/day5/Binary.java
+ com.bridgelabz.boosterjavaprograms.day5.Binary
+com/bridgelabz/boosterjavaprograms/day10/ArrayFunctions.java
+ com.bridgelabz.boosterjavaprograms.day10.ArrayFunctions
+com/bridgelabz/boosterjavaprograms/day10/Utility/Utility.java
+ com.bridgelabz.boosterjavaprograms.day10.Utility.Utility
+com/bridgelabz/boosterjavaprograms/day7/Try2.java
+ com.bridgelabz.boosterjavaprograms.day7.Try2
+com/bridgelabz/boosterjavaprograms/day10/RangedArrays.java
+ com.bridgelabz.boosterjavaprograms.day10.RangedArrays
+com/bridgelabz/boosterjavaprograms/day9/Utility/Utility.java
+ com.bridgelabz.boosterjavaprograms.day9.Utility.Utility
+com/bridgelabz/boosterjavaprograms/day9/Authenticator.java
+ com.bridgelabz.boosterjavaprograms.day9.Authenticator
+com/bridgelabz/boosterjavaprograms/day9/SecondLargest.java
+ com.bridgelabz.boosterjavaprograms.day9.SecondLargest
+com/bridgelabz/boosterjavaprograms/day9/SwitchPos.java
+ com.bridgelabz.boosterjavaprograms.day9.SwitchPos
+com/bridgelabz/boosterjavaprograms/day9/DeleteElement.java
+ com.bridgelabz.boosterjavaprograms.day9.DeleteElement

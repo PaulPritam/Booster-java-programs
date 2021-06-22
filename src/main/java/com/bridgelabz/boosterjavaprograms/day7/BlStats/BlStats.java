@@ -1,2 +1,4 @@
-package com.bridgelabz.boosterjavaprograms.day7.BlStats;public class BlStats {
+package com.bridgelabz.boosterjavaprograms.day7.BlStats;
+
+public class BlStats {
 }

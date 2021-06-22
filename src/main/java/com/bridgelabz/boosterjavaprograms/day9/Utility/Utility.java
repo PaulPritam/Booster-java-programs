@@ -1,2 +1,4 @@
-package com.bridgelabz.boosterjavaprograms.day9.Utility;public class Utility {
+package com.bridgelabz.boosterjavaprograms.day9.Utility;
+
+public class Utility {
 }
